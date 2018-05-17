@@ -1,11 +1,20 @@
 ---
+spring:
+  profiles:
+    active: es
+
+---
+
+spring:
+  profiles: es
 
 db:
-  username: John
-  password: pass
-  url: test@test
+  username: YML Spanish User Name
+  password: YML Spanish Password
+  url: YML Spanish DB URL
 
 jms:
-  username: Smith
-  password: somepassword
-  url: jms@jms
+  username: YML Spanish JMS User Name
+  password: YML Spanish JMS Password
+  url: YML Spanish JMS URL
+
