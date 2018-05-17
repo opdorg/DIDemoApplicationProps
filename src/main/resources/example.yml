@@ -1,0 +1,33 @@
+# this is a comment
+
+name: John
+
+names: #comment
+    - John
+    - Paul
+    - Ringo
+
+book:
+    author: Joe Buck
+    pulisher: Random House
+
+truth: yes #boolean true
+
+another_truth: true
+some_more_truth: True
+
+is_false: no # False, false No
+
+string_value: "Osmand's laptop"
+
+another_string: "Osmand's address: Canada"
+
+include_new_line: |
+    This is a tough and challenging time.
+    We need patience and resilience and have to stay focused.
+    We shouldn't pay attention on minor setbacks.
+
+ignore_new_line: >
+    This is a tough and challenging time.
+    We need patience and resilience and have to stay focused.
+    We shouldn't pay attention on minor setbacks.

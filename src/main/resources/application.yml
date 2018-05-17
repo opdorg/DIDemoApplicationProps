@@ -1,0 +1,11 @@
+---
+
+db:
+  username: John
+  password: pass
+  url: test@test
+
+jms:
+  username: Smith
+  password: somepassword
+  url: jms@jms
